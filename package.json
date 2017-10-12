@@ -1,0 +1,24 @@
+{
+  "name": "deredorm-electron",
+  "version": "1.0.0",
+  "description": "Deredorm on electron project.",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ne-peer/deredorm-electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ne-peer/deredorm-electron/issues"
+  },
+  "homepage": "https://github.com/ne-peer/deredorm-electron#readme"
+}
